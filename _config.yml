@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/news/", text: "News"}
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/donate/", text: "Donate"}
+ - {permalink: "/symposium/", text: "Symposium"}
 #bottomNavigationLinks:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 #rightNavigationButtons:
@@ -76,10 +76,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "raspberry.png"
 statisticBlock:
- - {count: "220", specialCharacter: "+", info: "UCR Postdocs", detail: ""}
+ - {count: "250", specialCharacter: "+", info: "UCR Postdocs", detail: ""}
  - {count: "31", specialCharacter: "+", info: "Departments", detail: ""}
  - {count: "90", specialCharacter: "+", info: "Events organized", detail: ""}
- - {count: "5", specialCharacter: "", info: "Years of RPA", detail: ""}
+ - {count: "7", specialCharacter: "", info: "Years of RPA", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -88,7 +88,7 @@ latestNewsTitle: "Latest news"
 subscribeImage: "blue.png"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "http://lists.ucr.edu/cgi-bin/mailman/listinfo/rpa-postdoc"
-subscribeInfo: "Subscribe to our Newsletter and stay tuned!"
+subscribeInfo: "Subscribe to the RPA listserv to get updates on social events, professional development workshops, and our annual Symposium."
 
 
 # Rockstar Speakers Block
