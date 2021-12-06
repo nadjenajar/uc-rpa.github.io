@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DEI Statement Workshop Friday, December 10th 2021"
-date: 2021-12-10 12:00:00
+date: 2021-12-06 08:00:00
 isStaticPost: true
 image: raspberry.png
 ---
